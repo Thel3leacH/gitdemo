@@ -1,3 +1,4 @@
-- stock v3
+- stock v1
 - promption v2
-- log v2
+- log v3
+- 1234
