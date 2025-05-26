@@ -1,3 +1,7 @@
 Gamer
+<<<<<<< HEAD
 QQQ
+=======
+DDD
+>>>>>>> 89cf2dc12cfbaca6f0c40395a5af94354c2838be
 BBB
